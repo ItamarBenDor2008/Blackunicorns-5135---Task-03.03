@@ -14,6 +14,11 @@ The lineup: {{4, 5, 15.25, 7}, {2, 0.5, 0.3}, {11.9, 30.2}}
 
 will return the array: {{30.2, 11.9}, {15.25, 7, 5, 4}, {2, 0.5, 0.3}}
 
+## Important note
+
+Two possible solutions/codes have been written for this task. 
+the choice is yours as to what to use and what not, and in any case I will show how to run both and explain about both.
+
 ## Getting Started
 
 ### Installation
