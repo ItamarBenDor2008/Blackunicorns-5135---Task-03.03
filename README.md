@@ -27,7 +27,7 @@ will return the array: {{30.2, 11.9}, {15.25, 7, 5, 4}, {2, 0.5, 0.3}}
 2. Get into the folder
 
     ```sh
-    cd PrimeNumbers__Task_0505
+    cd TwoDimensionalArrayArrangement
     cd src
     ```
 3. Run the program
