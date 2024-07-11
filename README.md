@@ -31,11 +31,12 @@ will return the array: {{30.2, 11.9}, {15.25, 7, 5, 4}, {2, 0.5, 0.3}}
     cd src
     ```
 3. Run the program
-    Code 1:
+   
+     Code 1:
     ```sh
     java Main1.java
     ```
-    Code 2:
+     Code 2:
    ```sh
     java Main2.java
     ```
